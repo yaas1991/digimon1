@@ -1,0 +1,38 @@
+body{
+    background-color: lightblue;
+    color: white;
+    font-size: 20px;
+
+}
+
+h1{
+    color: rgb(128,0,0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+label{
+    color: tomato;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+#nombreDigimon{
+color: slateblue;
+}
+
+#nivelDigimon{
+    color: slateblue;
+}
+
+.nav-link{
+    color: brown;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.boton{
+    color:black;
+    font-weight: bold;
+    background-color: darkorange;
+    border-radius: 15px;
+}
